@@ -5,10 +5,10 @@ This repository contains the implementation of TabNet and stacking ensemble mode
 
 ## Methodology
 - TabNet structure
-![TabNet](https://github.com/pozapas/PedCrashAIM/blob/main/Pedsafety%20-%20TabNet.png)
+![TabNet](https://github.com/pozapas/PedCrashAIM/blob/master/imgs/Pedsafety%20-%20TabNet.png)
 
 - Stacking Ensemble Models structure
-![SEM](https://github.com/pozapas/PedCrashAIM/blob/main/Pedsafety%20-%20Stacking.png)
+![SEM](https://github.com/pozapas/PedCrashAIM/blob/master/imgs/Pedsafety%20-%20Stacking.png)
 
 ## Installation
 This project require Python and the following Python packages installed:
