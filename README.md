@@ -1,4 +1,4 @@
-# Pedestrian Crash Severity Analysis using TabNet and Stacking Ensemble Models
+# [Pedestrian Crash Severity Analysis using TabNet and Stacking Ensemble Models](https://rdcu.be/dMrSv)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7194992.svg)](https://doi.org/10.1007/s42421-024-00098-x)
 ## Description
 This repository contains the implementation of TabNet and stacking ensemble models aimed at analyzing pedestrian crash severity. By examining Utah's pedestrian crash data from 2010 to 2022, we apply these advanced models to identify key factors influencing crash outcomes. Our approach integrates generalized ordered probit, stacking ensemble models including XGBoost and extremely randomized trees, and the novel use of TabNet, enhanced with SHAP for interpretability. The analysis demonstrates TabNet's superior predictive accuracy and the stacking ensemble's robust performance in identifying critical crash severity determinants, such as pedestrian age, turning movements, lighting conditions, and alcohol consumption. This work contributes valuable insights into traffic safety engineering and policymaking to improve pedestrian safety.
